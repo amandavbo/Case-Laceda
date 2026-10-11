@@ -1,0 +1,5 @@
+# Leitura, normalizacao e gravacao das bases CSV/Parquet nos notebooks 01 e 02.
+polars>=1.31,<2
+
+# Matching, auditoria e exportacao SQL no notebook 03.
+duckdb>=1.3,<2
